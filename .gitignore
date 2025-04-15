@@ -2,7 +2,8 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+Customer Service Dept. Manual.pdf
+vector_db_dir
 # C extensions
 *.so
 
