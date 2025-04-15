@@ -1,0 +1,12 @@
+langchain
+langchain_community
+# streamlit
+# llama-cpp-python
+# langchain-google-genai
+fastapi
+uvicorn
+python-dotenv
+langchain-groq
+langchain-chroma
+langchain-huggingface
+pypdf
