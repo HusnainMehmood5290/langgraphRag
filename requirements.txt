@@ -1,4 +1,5 @@
 langchain
+langchain_core
 langchain_community
 # streamlit
 # llama-cpp-python
@@ -10,3 +11,4 @@ langchain-groq
 langchain-chroma
 langchain-huggingface
 pypdf
+langgraph
